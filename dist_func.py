@@ -1,3 +1,4 @@
+#Distance functions
 import math
 from math import pi,cos,asin,sqrt
 import numpy as np
